@@ -23,7 +23,7 @@
 </div>
 
 
-下面的文档内容基本上是原项目文档的翻译内容， 详情参考原项目--> **[RN-Game-Joystick](https://github.com/adamthewebguy/RN-Game-Joystick)** 
+下面的文档内容基本上是原项目文档的翻译内容，只是在一些描述上做了修改，详情参考原项目--> **[RN-Game-Joystick](https://github.com/adamthewebguy/RN-Game-Joystick)** 
 
 一款极简、性能高的React Native游戏双摇杆控制器实现，采用Expo、React Native Reanimated v4和Gesture Handler构建。
 
