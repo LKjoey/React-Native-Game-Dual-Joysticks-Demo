@@ -18,7 +18,9 @@
 
 实现双摇杆的关键就是每个 Joystick 必须使用独立的 **GestureHandlerRootView** (**查看 app\index.tsx**)。
 
-![double_joysticks](assets/double_joysticks.png)
+<div align="center">
+    <img src="assets/double_joysticks.png" width="50%" alt="display animation">
+</div>
 
 
 下面的文档内容基本上是原项目文档的翻译内容， 详情参考原项目--> **[RN-Game-Joystick](https://github.com/adamthewebguy/RN-Game-Joystick)** 
