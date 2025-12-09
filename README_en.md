@@ -74,7 +74,7 @@ Then:
 ## Project Structure
 
 ```
-RN-Game-Joystick/
+React-Native-Game-Dual-Joysticks/
 ├── app/
 │   ├── _layout.tsx          # Root layout (minimal)
 │   └── index.tsx            # Main game screen with joystick demo
