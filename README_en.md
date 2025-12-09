@@ -10,7 +10,7 @@ The following is the operation effect:
     <img src="assets/display.gif" width="30%" alt="display animation">
 </div>
 
-How is the dual joystick achieved
+### How is the dual joystick achieved
 
 By default, **React Native GestureHandler(RNGH)** only allows one gesture to be active within the same **GestureHandlerRootView**, even if their regions do not overlap.
 
