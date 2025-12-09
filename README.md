@@ -1,6 +1,6 @@
 # React Native 游戏双摇杆
-[English](README_en.md)
-# React Native Game Dual Joysticks Demo
+
+# React Native Game Dual Joysticks Demo    [English](README_en.md)
 
 本项目是在 **[RN-Game-Joystick](https://github.com/adamthewebguy/RN-Game-Joystick)** 项目基础上进行简单的修改，
 
