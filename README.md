@@ -15,7 +15,7 @@
 </div>
 
 ### 双摇杆是如何实现的
-默认情况下，**React Native Gesture Handler(RNGH)**在同一个 GestureHandlerRootView 内只允许一个手势处于活跃状态（active），即使它们区域不重叠。
+默认情况下，**React Native Gesture Handler(RNGH)** 在同一个 GestureHandlerRootView 内只允许一个手势处于活跃状态（active），即使它们区域不重叠。
 
 要支持多个同时激活的手势（如双摇杆、多指绘画），每个独立的手势组件应包裹在自己的 GestureHandlerRootView 中。
 
