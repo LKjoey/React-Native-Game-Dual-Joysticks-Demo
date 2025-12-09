@@ -16,7 +16,7 @@ By default, **React Native GestureHandler(RNGH)** only allows one gesture to be 
 
 To support multiple simultaneously activated gestures (such as dual joysticks, multi-finger drawing), each independent gesture component should be wrapped in its own **GestureHandlerRootView**.
 
-The key to achieving dual joysticks is that each Joystick must use an independent **GestureHandlerRootView** (view app\index.tsx).
+The key to achieving dual joysticks is that each Joystick must use an independent **GestureHandlerRootView** (view **app\index.tsx**).
 
 <div align="center">
     <img src="assets/double_joysticks.png" width="50%" alt="display animation">
