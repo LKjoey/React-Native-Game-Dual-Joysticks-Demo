@@ -12,7 +12,7 @@
 
 最近在制作 **[flix-drone](https://github.com/okalachev/flix)** 四旋翼无人机项目，有这个控制需求。
 
-下面是运行效果 (gif图片不动了，就刷新一下网页)：
+下面是APP运行效果 (gif图片不动了，就刷新一下网页)：
 
 <div align="center">
     <img src="assets/display.gif" width="30%" alt="display animation">
