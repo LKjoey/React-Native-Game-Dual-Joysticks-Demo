@@ -79,7 +79,7 @@ npx expo start
 ## 项目结构
 
 ```
-RN-Game-Joystick/
+React-Native-Game-Dual-Joysticks/
 ├── app/
 │   ├── _layout.tsx          # 根布局
 │   └── index.tsx            # 主游戏画面与操纵杆演示
