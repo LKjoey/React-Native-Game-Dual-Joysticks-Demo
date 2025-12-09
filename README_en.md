@@ -4,7 +4,7 @@ This project is in the **[RN-Game-Joystick](https://github.com/adamthewebguy/RN-
 The original project was one joystick controlling one small ball. Based on this, I achieved two joysticks controlling two small balls. The joysticks do not affect each other and can be controlled simultaneously.
 It can be used in scenarios with dual joystick control, such as game, drone and racing car remote control. 
 
-The following is the operation effect:
+The following is the APP effect:
 
 <div align="center">
     <img src="assets/display.gif" width="30%" alt="display animation">
