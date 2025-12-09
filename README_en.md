@@ -1,4 +1,4 @@
-# React Native Game Dual Joystick Demo
+# React Native Game Dual Joysticks Demo
 
 This project is in the **[RN-Game-Joystick](https://github.com/adamthewebguy/RN-Game-Joystick)** project based on a simple modification,
 The original project was one joystick controlling one small ball. Based on this, I achieved two joysticks controlling two small balls. The joysticks do not affect each other and can be controlled simultaneously.
